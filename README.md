@@ -37,11 +37,11 @@ pin 51 -> pin 2
 pin 52 -> pin 1  
 pin 53 -> pin 15  
   
-*data  on utilise un 7417 hex buffer driver open collector entre le harduino et le chip
-pin 40 -> 7417 -> pin 12 -> 3.9k -> 5v  
-pin 41 -> 7417 -> pin 11 -> 3.9k -> 5v  
-pin 42 -> 7417 -> pin 10 -> 3.9k -> 5v  
-pin 43 -> 7417 -> pin 9 -> 3.9k -> 5v  
+*data  on utilise un 7416 hex buffer driver open collector entre le harduino et le chip
+pin 40 -> 7416 -> pin 12 -> 3.9k -> 5v  
+pin 41 -> 7416 -> pin 11 -> 3.9k -> 5v  
+pin 42 -> 7416 -> pin 10 -> 3.9k -> 5v  
+pin 43 -> 7416 -> pin 9 -> 3.9k -> 5v  
 
 *cs  
 pin 39 -> pin 13 & 14  
